@@ -15,7 +15,7 @@ This review involves creating HTML templates for user management, styled using C
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/vansh1505/Guvi-sem3-2024-project.git
+git clone https://github.com/vansh1505/priortizeme.git
 ```
 
 ### Open with Live Server
